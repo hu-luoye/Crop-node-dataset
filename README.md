@@ -21,6 +21,7 @@ The final collected images of chili, eggplant, and tomato plants comprised 50, 1
 The crop dataset and annotations are about 1.9 GB in size and can be downloaded through Baidu Cloud:
 
 ```
-
+link：https://pan.baidu.com/s/1xOuz4wQ4l1ZA2iDp0eGjzA 
+password：nuft
 ```
 

@@ -14,11 +14,11 @@ The datasets used in this study included chilies, tomatoes, and eggplants. The c
 
 The final collected images of chili, eggplant, and tomato plants comprised 50, 180, and 350 images, respectively. The total number of pictures of the three types of crops was 580, including 4455 nodes, with an average of 6 nodes per image. 
 
-![image-20230204113341721](C:\Users\落叶\AppData\Roaming\Typora\typora-user-images\image-20230204113341721.png)
+![image-20230204113341721](https://raw.githubusercontent.com/hu-luoye/Crop-node-dataset/main/image/image.png)
 
 ## Downloads
 
-The citrus dataset and annotations are about 3.82GB in size and can be downloaded through Baidu Cloud:
+The crop dataset and annotations are about 1.9 GB in size and can be downloaded through Baidu Cloud:
 
 ```
 

@@ -25,3 +25,8 @@ link：https://pan.baidu.com/s/1xOuz4wQ4l1ZA2iDp0eGjzA
 password：nuft
 ```
 
+
+
+## Citation
+
+Hu, J.; Li, G.; Mo, H.; Lv, Y.; Qian, T.; Chen, M.; Lu, S. Crop Node Detection and Internode Length Estimation Using an Improved YOLOv5 Model. Agriculture 2023, *13*, 473. https://doi.org/10.3390/agriculture13020473
